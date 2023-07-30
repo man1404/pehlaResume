@@ -1,0 +1,19 @@
+.form{
+    display:flex;
+    justify-content:center;
+}
+.head{
+    display: inline;
+    font-size: 40px;
+    white-space: nowrap;
+    color: blue;
+    margin-top: 0px;
+    
+}
+
+.start{
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 33%;
+}

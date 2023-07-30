@@ -1,0 +1,17 @@
+
+.textt{
+  margin: auto 0;
+  text-align: center;
+  display: flex;
+  background-color: black;
+  position: fixed;
+}
+
+
+footer {
+    flex-shrink: 0;
+    padding: 20px 0; /* Add some padding to the top and bottom for spacing */
+    background-color: #f2f2f2; /* Set a background color for the footer */
+    margin-top :0px;
+    text-align: center; /* Center the content in the footer horizontally */
+  }
